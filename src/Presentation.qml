@@ -48,6 +48,7 @@ Item {
 
     property variant slides: []
     property int currentSlide;
+    property string currentChapter;
 
     property bool showNotes: false;
     property bool allowDelay: true;

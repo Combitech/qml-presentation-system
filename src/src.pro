@@ -5,6 +5,7 @@ QML_FILES = \
     CodeSlide.qml \
     Presentation.qml \
     Slide.qml \
-    SlideCounter.qml
+    SlideCounter.qml \
+    Chapter.qml
 
 load(qml_module)
